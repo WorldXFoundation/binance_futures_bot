@@ -4,5 +4,5 @@
 	"trading_periods": "5m",
 	"margin_type": "ISOLATED",
 	"trailing_percentage": "2.0",
-	"api_url" : "https://testnet.binancefuture.com/api/v1"
+	"api_url" : "https://testnet.binancefuture.com/en"
 }
